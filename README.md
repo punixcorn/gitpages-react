@@ -7,7 +7,10 @@ just pass in your **github username** and the **repo name ( the name of the repo
 ### RUN
 
 -   clone the file
-    `wget  https://raw.githubusercontent.com/punixcorn/gitpages-react/main/main.sh; chmod +x main.sh`
+    ```
+    wget  https://raw.githubusercontent.com/punixcorn/gitpages-react/main/main.sh
+    chmod +x main.sh
+    ```
 
 -   run
 
