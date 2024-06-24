@@ -7,12 +7,12 @@ just pass in your **github username** and the **repo name ( the name of the repo
 ### RUN
 
 -   clone the file
-    `wget -o gitpages <url>`
+    `wget  https://raw.githubusercontent.com/punixcorn/gitpages-react/main/main.sh; chmod +x main.sh`
 
 -   run
 
 ```bash
-    main.sh <username> <repo name>
+    ./main.sh <username> <repo name>
 ```
 
 #### NB
